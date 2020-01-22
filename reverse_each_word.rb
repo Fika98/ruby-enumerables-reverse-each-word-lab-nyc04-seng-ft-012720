@@ -7,7 +7,7 @@ original_string.each do |str|
   end 
   arr.join(" ")
 end 
-reverse_each_word("Hello there, and how are you?")
+
 
 
 
